@@ -18,4 +18,6 @@
 	* [Gobierno de todos](partes/gobierno_de_todos.md)
 	* [Gestión pública eficiente](partes/gestion_publica_eficiente.md)
 * [Parte IV - Elementos transversales tecnológicos](partes/parte_4.md)
-
+* [Parte V - Objetivos estratégicos](partes/parte_5.md)
+	* [A. Educación](partes/educacion.md)
+	* [B. Salud](partes/salud.md)
