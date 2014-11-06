@@ -21,3 +21,5 @@
 * [Parte V - Objetivos estratégicos](partes/parte_5.md)
 	* [A. Educación](partes/educacion.md)
 	* [B. Salud](partes/salud.md)
+* [Anexos](partes/anexos.md)
+	* [GUÍA TÉCNICA DE INTEROPERABILIDAD](partes/guia_tecnica_de_interoperabilidad.md)
