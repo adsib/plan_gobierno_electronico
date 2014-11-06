@@ -12,7 +12,7 @@
 		* [D. Capacidad en talento humano](partes/capacidad_en_talento_humano.md)
 	* [Componentes](partes/componentes.md)
 		* [A. Ejes estratégicos](partes/ejes_estrategicos.md)
-		* [B. Elementos transversales](partes/elementos_transversales)
+		* [B. Elementos transversales](partes/elementos_transversales.md)
 * [Ejes estratégicos](partes/ejes.md)
 	* [Gobierno de todos](partes/gobierno_de_todos.md)
 	* [Gestión pública eficiente](partes/gestion_publica_eficiente.md)
