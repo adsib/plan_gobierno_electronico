@@ -10,3 +10,5 @@ Dirección General de Gobierno Electrónico
 
 La Paz – septiembre, 2014
 
+![DGGE](../imagenes/dgge.png)
+![Escudo](../imagenes/escudo.png)

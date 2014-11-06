@@ -12,7 +12,7 @@ El siguiente esquema muestra la evolución de una Agenda Digital y el Gobierno E
 
 Existen avances en el desarrollo de herramientas transversales de Gobierno Electrónico en algunas entidades del Estado que fueron diseñadas en función a las necesidades del Gobierno. Las más importantes son:
 
-![Herramientas transversales de Gobierno Electrónico](../imagenes/antecedentes_herramientas.jpg)
+![Herramientas transversales de Gobierno Electrónico](../imagenes/antecedentes_herramientas.png)
 
 ## Marco Normativo Vigente
 
