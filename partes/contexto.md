@@ -12,7 +12,7 @@ A través del aprovechamiento compartido del conocimiento, las y los bolivianosl
 
 ## Justificación de un Plan de Gobierno Electrónico
 
-Los más de diez millones de bolivianos viven día a día la transformación tecnológica. A la fecha, las más de diez millones de líneas de telefonía celular y tres millones y medio de conexiones de internet1, dan cuenta de que Bolivia se ha sumado al tren de la tecnología. Esta transformación ha sido posible, en gran medida, a los esfuerzos que el Estado ha realizado en la última décadapara mejorar, modernizar y universalizar la tecnología y las telecomunicaciones. 
+Los más de diez millones de bolivianos viven día a día la transformación tecnológica. A la fecha, las más de diez millones de líneas de telefonía celular y tres millones y medio de conexiones de internet [1], dan cuenta de que Bolivia se ha sumado al tren de la tecnología. Esta transformación ha sido posible, en gran medida, a los esfuerzos que el Estado ha realizado en la última décadapara mejorar, modernizar y universalizar la tecnología y las telecomunicaciones. 
 
 Es así que en los últimos años el Estado ha incursionado en la tecnología espacial al lanzar su primer satélite boliviano; ha llevado las telecomunicaciones a cientos de poblaciones rurales del país a través de telecentros, y ha generado programas de dotaciones de computadores a maestros y alumnos de escuelas públicas. Con ello se alcanzó múltiples beneficios para la población al estar más conectada, comunicada, informada y participe de los cambios y transformaciones sociales.De igual forma, el sector privado –especialmente la banca y los servicios- ha logrado rápidamente incorporar las TIC en sus procesos.  
 
@@ -25,3 +25,6 @@ Por otro lado, uno de los principios ético-morales de la Constitución Polític
 En los últimos años, Bolivia ha logrado avances sustanciales en reducción de la pobreza, disminución de la desigualdad y mejora del nivel de ingreso de la población, entre varios otros. No obstante, la administración del Estado no ha avanzadoal mismo ritmo que las transformaciones económicas y sociales alcanzadas en la última gestión de gobierno.El Gobierno electrónico, tiene a la vez, el potencial de ser una herramienta para alcanzar mayor progreso y desarrollo.
 
 Son reconocidos los beneficios que trae el Gobierno Electrónico a la administración pública a través de la simplificación de procesos, reducción de tiempos, comunicaciones más rápidas y sencillas entre entidades, entre varias otras. Todo esto permitirá una optimización de recursosque posibilitará una mejor asignación a otras necesidades y áreas estratégicas del Estado, como ser la ampliación de los programas sociales. 
+
+Notas:
+[1] Fuente: ATT a fecha XXX.
