@@ -28,7 +28,7 @@ El marco normativo vigente define las bases para la implementación del Gobierno
 		* DESCRIPCIÓN: Esta norma está orientada a modernizar y transparentar la gestión pública, otorgando servicios y atención de calidad a la ciudadanía, garantizando el derecho a la información, así como contribuir a la eficiencia y eficacia de los actos administrativos del gobierno, mediante el uso de las TIC y otras herramientas. Buscando generar mecanismos tecnológicos de participación y control social por parte de los ciudadanos, organizaciones sociales y pueblos y naciones indígena originario campesinos. 
 * BLOQUE: III.  PLANES
 	* NORMA: Agenda Patriótica
-		*DESCRIPCIÓN: Tres de sus 13 pilares están relacionados con soberanía tecnológica, transparencia y servicios públicos
+		* DESCRIPCIÓN: Tres de sus 13 pilares están relacionados con soberanía tecnológica, transparencia y servicios públicos
 	* NORMA: Plan Nacional de Desarrollo
 		* DESCRIPCIÓN: El Plan debe enmarcarse en se enmarca en el pilar Bolivia Productiva dentro la Política De Innovación y Desarrollo Tecnológico.
 * BLOQUE: IV.  OTRA NORMATIVA IMPORTANTE
