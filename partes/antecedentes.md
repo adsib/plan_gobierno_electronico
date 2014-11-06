@@ -20,12 +20,12 @@ El marco normativo vigente define las bases para la implementación del Gobierno
 
 * BLOQUE: I.  CONSTITUCIONAL
  * NORMA: Constitución Política del Estado (CPE)
-  * DESCRIPCIÓN: Establece el derecho al acceso universal y equitativo a las telecomunicaciones; por otro lado, estipula que el Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de las TIC.
+   * DESCRIPCIÓN: Establece el derecho al acceso universal y equitativo a las telecomunicaciones; por otro lado, estipula que el Estado asumirá como política la implementación de estrategias para incorporar el conocimiento y aplicación de las TIC.
 * BLOQUE: II.  LEY Y DECRETO TIC
  * NORMA: Ley 164
-  * DESCRIPCIÓN: Determina que es prioridad nacional la promoción, acceso, uso y apropiación de las TIC para procurar el vivir bien de todas las bolivianas y bolivianos, especialmente para aquellos con menores ingresos y con necesidades especiales. 
+   * DESCRIPCIÓN: Determina que es prioridad nacional la promoción, acceso, uso y apropiación de las TIC para procurar el vivir bien de todas las bolivianas y bolivianos, especialmente para aquellos con menores ingresos y con necesidades especiales. 
  * NORMA: DS 1793
-  * DESCRIPCIÓN: Esta norma está orientada a modernizar y transparentar la gestión pública, otorgando servicios y atención de calidad a la ciudadanía, garantizando el derecho a la información, así como contribuir a la eficiencia y eficacia de los actos administrativos del gobierno, mediante el uso de las TIC y otras herramientas. Buscando generar mecanismos tecnológicos de participación y control social por parte de los ciudadanos, organizaciones sociales y pueblos y naciones indígena originario campesinos. 
+   * DESCRIPCIÓN: Esta norma está orientada a modernizar y transparentar la gestión pública, otorgando servicios y atención de calidad a la ciudadanía, garantizando el derecho a la información, así como contribuir a la eficiencia y eficacia de los actos administrativos del gobierno, mediante el uso de las TIC y otras herramientas. Buscando generar mecanismos tecnológicos de participación y control social por parte de los ciudadanos, organizaciones sociales y pueblos y naciones indígena originario campesinos. 
 * BLOQUE: III.  PLANES
  * NORMA: Agenda Patriótica
   * DESCRIPCIÓN: Tres de sus 13 pilares están relacionados con soberanía tecnológica, transparencia y servicios públicos
