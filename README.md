@@ -1,11 +1,10 @@
 # Plan de gobierno electrónico
 
 * [Portada](partes/portada.md)
-* [Parte I](partes/parte_1.md)
-	* [Aspectos generales](partes/aspectos_generales.md)
-		* [Contexto](partes/contexto.md)
-		* [Antecedentes](partes/antecedentes.md)
-* [Misión y visión](partes/mision_vision.md)
+* [Parte I - Aspectos generales](partes/parte_1.md)
+	* [Contexto](partes/contexto.md)
+	* [Antecedentes](partes/antecedentes.md)
+* [Parte II](partes/parte_2.md)
 * [Ejes estratégicos](partes/ejes.md)
 	* [Gobierno de todos](partes/gobierno_de_todos.md)
 	* [Gestión pública eficiente](partes/gestion_publica_eficiente.md)
