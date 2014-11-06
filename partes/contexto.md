@@ -1,0 +1,27 @@
+# CONTEXTO
+
+## Importancia de pasar  una sociedad del conocimiento
+
+Los recientes avances que se han producido en la tecnología han reconfigurado la vida de las sociedades en múltiples aspectos. La penetración de las telecomunicaciones, el internet y los dispositivos móviles, entre varios otros, han transformado la forma en la que los ciudadanos se relacionan entre sí, con el Estado y con el mundo exterior.
+
+Las TIC, de manera general, han logrado romper las barreras de comunicación y acceso a la información facilitando y promoviendo la forma en la que las ideas fluyen, se comparten y son utilizadas permitiendo un avance en el saber y el conocimiento de las naciones. La evidencia a nivel mundial muestra que las sociedades que más han avanzado en incorporación de las TIC han fortalecido su capacidad para innovar y crear nuevas ideas y conocimientos, que luego dan lugar a nuevos productos, procesos y proyectos que se traducen en mayor productividad y bienestar para estos países. Esto es lo que se conoce como la sociedad del conocimiento. 
+
+Es importante que Bolivia dé un salto hacia la **sociedad del conocimiento**. Una sociedad en la que las ideas y el conocimiento reemplacen al trabajo manual, la explotación de las materias primas y el capital como fuentes de la riqueza, a través de un círculo virtuoso de creación e innovación que promueva la creatividad y las capacidades de nuestros habitantes. Este mayor conocimiento e innovación harán posible que Bolivia pase de ser un país consumidor a un país productor de bienes, servicios e ideas, descolonizándonos del saber impuesto por las naciones industrializadas. 
+
+A través del aprovechamiento compartido del conocimiento, las y los bolivianoslograránun mayor y mejor ejercicio de ciudadanía, serán más participes del desarrollo de políticas y el control social. Esto hará de Bolivia una **sociedad más inclusiva y un Estado más eficiente y orientado al ciudadano**.
+
+## Justificación de un Plan de Gobierno Electrónico
+
+Los más de diez millones de bolivianos viven día a día la transformación tecnológica. A la fecha, las más de diez millones de líneas de telefonía celular y tres millones y medio de conexiones de internet1, dan cuenta de que Bolivia se ha sumado al tren de la tecnología. Esta transformación ha sido posible, en gran medida, a los esfuerzos que el Estado ha realizado en la última décadapara mejorar, modernizar y universalizar la tecnología y las telecomunicaciones. 
+
+Es así que en los últimos años el Estado ha incursionado en la tecnología espacial al lanzar su primer satélite boliviano; ha llevado las telecomunicaciones a cientos de poblaciones rurales del país a través de telecentros, y ha generado programas de dotaciones de computadores a maestros y alumnos de escuelas públicas. Con ello se alcanzó múltiples beneficios para la población al estar más conectada, comunicada, informada y participe de los cambios y transformaciones sociales.De igual forma, el sector privado –especialmente la banca y los servicios- ha logrado rápidamente incorporar las TIC en sus procesos.  
+
+La estructura institucional del Estado tiende a ser más lenta en la adaptación e incorporación de nuevas tecnologías en comparación con la sociedad y el sector privado. Impedimentos del tipo legal, administrativo y cultural -entre otros- han obstaculizado que los beneficios de la tecnología puedan mejorar y modernizar su relación con la población, alcanzando mayor eficiencia interna en la administración pública.  
+
+Por todo esto, es necesario que el Estado despegue del andamiaje institucional obsoleto producto de la baja incorporación tecnológica. De manera particular, la implementación del Gobierno Electrónico genera un sinnúmero de beneficios que han sido evidentes en otros paísesde la región y en el resto del mundo. Fundamentalmente, permite mejorar la relación entre Estado y sociedad, mejorar la eficiencia de la administración pública, ampliar los espacios de participación y control social, impulsa la transparencia y promover el desarrollo productivo del sector privado. 
+
+Por otro lado, uno de los principios ético-morales de la Constitución Política del Estado (CPE) es el Vivir Bien. La mismaplanteacomo uno de los fines del Estado garantizar la prosperidad, desarrollo, la seguridad y la protección e igual dignidad de las personas. Esto representa que el Gobierno otorga la máxima importancia al bienestar de sus habitantes. El Estado tiene en el Gobierno Electrónico una herramienta eficaz para poder llevar a la práctica este precepto de la Constitución.
+
+En los últimos años, Bolivia ha logrado avances sustanciales en reducción de la pobreza, disminución de la desigualdad y mejora del nivel de ingreso de la población, entre varios otros. No obstante, la administración del Estado no ha avanzadoal mismo ritmo que las transformaciones económicas y sociales alcanzadas en la última gestión de gobierno.El Gobierno electrónico, tiene a la vez, el potencial de ser una herramienta para alcanzar mayor progreso y desarrollo.
+
+Son reconocidos los beneficios que trae el Gobierno Electrónico a la administración pública a través de la simplificación de procesos, reducción de tiempos, comunicaciones más rápidas y sencillas entre entidades, entre varias otras. Todo esto permitirá una optimización de recursosque posibilitará una mejor asignación a otras necesidades y áreas estratégicas del Estado, como ser la ampliación de los programas sociales. 
