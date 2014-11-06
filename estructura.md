@@ -14,6 +14,8 @@ Propuesta de ADSIB - 06/11/2014
 
 ### Gobierno transparente
 
+### Elementos transversales tecnológicos
+
 ## Modelo de gestión
 
 ### Estructura institucional
@@ -21,4 +23,3 @@ Propuesta de ADSIB - 06/11/2014
 ### Presupuesto
 
 ### Plazos
-
