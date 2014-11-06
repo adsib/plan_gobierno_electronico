@@ -1,7 +1,6 @@
 # Plan de gobierno electrónico
 
-Propuesta de ADSIB - 06/11/2014
-
+* [Portada](partes/portada.md)
 * [Antecedentes](partes/antecedentes.md)
 * [Misión y visión](partes/mision_vision.md)
 * [Ejes estratégicos](partes/ejes.md)
