@@ -2,9 +2,10 @@
 
 * Lineamiento: El Estado deberá establecer una estructura institucional adecuada para promover la implementación del gobierno electrónico de manera sistemática y de manera eficiente a nivel del Estado
 	* Descripción
-		* Acciones: Establecimiento de una ley que establezca la estructura institucional que dirigirá la implementación   del gobierno electrónico en el Estado.
-			* Normativa actual: Ley 164
-			* Normativa futura: Nueva Ley para la creación de la Agencia Nacional de Gobierno Electrónico
+	* Acciones: Establecimiento de una ley que establezca la estructura institucional que dirigirá la implementación   del gobierno electrónico en el Estado.
+	* Normativa:
+		* actual: Ley 164
+		* futura: Nueva Ley para la creación de la Agencia Nacional de Gobierno Electrónico
 
 A nivel estratégico la estructura institucional está compuesta por: 
 
@@ -32,16 +33,19 @@ La plataforma de Gobierno Electrónico estará enfocada a la coordinación de in
 Objetivo: Desarrollo de iniciativas, herramientas y servicios de gobierno electrónico en el Estado
 
 * Lineamiento: Las iniciativas, herramientas o servicios e gobierno electrónico que emprendan o desarrollen las entidades del Estado deberán ser coordinados con la Plataforma de Gobierno Electrónico.
-	* Descripción: Con el propósito de orientar el desarrollo de herramientas de Gobierno electrónico en el Estado, todas las iniciativas a desarrollar serán coordinadas por la plataforma de Gobierno electrónico.
-	En una etapa inicial los proyectos serán mayormente impulsados por la Plataforma de Gobierno electrónico para luego ser traspasados a las entidades pertinentes para que sean asumidos.
-		* Acciones
-			* Normativa Actual
-			* Normativa Futura
+	* Descripción:
+		* Con el propósito de orientar el desarrollo de herramientas de Gobierno electrónico en el Estado, todas las iniciativas a desarrollar serán coordinadas por la plataforma de Gobierno electrónico.
+		* En una etapa inicial los proyectos serán mayormente impulsados por la Plataforma de Gobierno electrónico para luego ser traspasados a las entidades pertinentes para que sean asumidos.
+	* Acciones
+	* Normativa
+		* Actual
+		* Futura
 * Lineamiento: El Estado creará un fondo de innovación para financiar iniciativas de gobierno electrónico que emprendan las entidades públicas. 
 	* Descripción: Mediante este fondo, el Estado financiará iniciativas en Gobierno electrónico que las diferentes entidades del Estado concursen según sus necesidades y fines institucionales. La Plataforma de Gobierno Electrónico será el ente encargado de asignar los recursos del mismo según la pertinencia e importancia de la herramienta de gobierno electrónico en cuestión
-		* Acciones: Definir lineamientos para el concurso de las entidades públicas a los fondos de innovación en gobierno electrónico.
-			* Normativa Actual
-			* Normativa Futura
+	* Acciones: Definir lineamientos para el concurso de las entidades públicas a los fondos de innovación en gobierno electrónico.
+	* Normativa
+		* Actual
+		* Futura
 
 ### 2.2 Observatorio de Innovación e Interoperabilidad (OII)
 
