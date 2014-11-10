@@ -13,7 +13,7 @@
 	* [Componentes](partes/componentes.md)
 		* [A. Ejes estratégicos](partes/ejes_estrategicos.md)
 		* [B. Elementos transversales](partes/elementos_transversales.md)
-* [Parte III - Ejes estratégicos](partes/parte_3.md)
+* [Parte III - Ejes estratégicos principales de Gobierno Electrónico](partes/parte_3.md)
 	* [Gobierno Abierto](partes/gobierno_transparente.md)
 	* [Gobierno de todos](partes/gobierno_de_todos.md)
 	* [Gestión pública eficiente](partes/gestion_publica_eficiente.md)
