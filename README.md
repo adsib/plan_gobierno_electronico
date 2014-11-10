@@ -23,3 +23,22 @@
 	* [B. Salud](partes/salud.md)
 * [Anexos](partes/anexos.md)
 	* [GUÍA TÉCNICA DE INTEROPERABILIDAD](partes/guia_tecnica_de_interoperabilidad.md)
+
+
+
+
+
+Estado Plurinacional de Bolivia
+
+Ministerio de Planificación del Desarrollo
+
+Dirección General de Gobierno Electrónico - DGGE
+
+# PLAN DE GOBIERNO ELECTRÓNICO v.0.1
+
+Dirección General de Gobierno Electrónico
+
+La Paz – septiembre, 2014
+
+![DGGE](../imagenes/dgge.png)
+![Escudo](../imagenes/escudo.png)
