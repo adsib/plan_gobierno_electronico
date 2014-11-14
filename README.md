@@ -13,8 +13,8 @@ Desglosar cada Objetivo en Programas y Proyectos
     * Objetivo A. Servicios y trámites eficientes
     * Objetivo B. Atención de quejas y reclamos
     * Objetivo C. Participación ciudadana y empresarial
-    * Objetivo D. Apropiación ciudadana y empresarial de gobierno electrónico GOBIERNO ELECTRÓNICO
-    * Objetivo E. Transferencia de saberes y conocimientos tecnológicos TECNOLÓGICOS
+    * Objetivo D. Apropiación ciudadana y empresarial de gobierno electrónico
+    * Objetivo E. Transferencia de saberes y conocimientos tecnológicos
   * Gestión pública eficiente
     * Antecedentes
     * Objetivo estratégico
