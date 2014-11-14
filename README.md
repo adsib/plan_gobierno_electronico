@@ -4,10 +4,10 @@ Propuesta de ADSIB - 06/11/2014
 
 Desglosar cada Objetivo en Programas y Proyectos
 
-* [Antecedentes](partes/antecedentes.md)
-* [Misión y visión](partes/mision_vision.md)
-* [Ejes estratégicos](partes/ejes.md)
-  * [Gobierno de todos](partes/gobierno_de_todos.md)
+* Antecedentes
+* Misión y visión
+* Ejes estratégicos
+  * Gobierno de todos
     * Antecedentes
     * Objetivo estratégico
     * Objetivo A. SERVICIOS Y TRÁMITES EFICIENTES
@@ -15,18 +15,18 @@ Desglosar cada Objetivo en Programas y Proyectos
     * Objetivo C. PARTICIPACIÓN CIUDADANA Y EMPRESARIAL
     * Objetivo D. APROPIACIÓN CIUDADANA Y EMPRESARIAL DE GOBIERNO ELECTRÓNICO
     * Objetivo E. TRANSFERENCIA DE SABERES Y CONOCIMIENTOS TECNOLÓGICOS
-  * [Gestión pública eficiente](partes/gestion_publica_eficiente.md)
+  * Gestión pública eficiente
     * Antecedentes
     * Objetivo estratégico
     * Objetivo A. MODERNIZACIÓN Y DESBUROCRATIZACIÓN DE LA GESTIÓN PÚBLICA
     * Objetivo B. INTEROPERABILIDAD EN EL ESTADO
     * Objetivo C. CAPACITACIÓN Y FORMACIÓN DE SERVIDORES PÚBLICOS PARA LA APROPIACIÓN DE GOBIERNO ELECTRÓNICO
-  * [Gobierno transparente](partes/gobierno_transparente.md)
+  * Gobierno transparente
     * Antecedentes
     * Objetivo estratégico
     * Objetivo A. Fortalecer el ejercicio del derecho de la población al acceso a la información pública, mediante el uso masivo de herramientas TIC.
     * Objetivo B. Fortalecer los procesos de control social mediante el uso de herramientas digitales.
-  * [Elementos transversales tecnológicos](partes/elementos_transversales.md)
+  * Elementos transversales tecnológicos
     * Antecedentes
     * Objetivo estratégico
     * Objetivo A. Mejora en el acceso al servicio de internet
@@ -41,7 +41,7 @@ Desglosar cada Objetivo en Programas y Proyectos
     * Objetivo J. Promoción y mejora del Intercambio de Información basados en Estándares Abiertos
     * Objetivo K. Arquitectura transversal orientada a los servicios de intercambio de información
     * Objetivo L. Catálogo de interoperabilidad o de Servicios Web
-* [Modelo de gestión](partes/modelo_gestion.md)
-  * [Estructura institucional](partes/estructura_institucional.md)
-  * [Presupuesto](partes/presupuesto.md)
-  * [Plazos](partes/plazos.md)
+* Modelo de gestión
+  * Estructura institucional
+  * Presupuesto
+  * Plazos
